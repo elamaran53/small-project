@@ -1,1 +1,2 @@
 hi this is small project
+using html css javascript
