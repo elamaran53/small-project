@@ -31,7 +31,7 @@ input {
 .output {
     font-size: 16px;
     margin-top: 10px;
-    color: lightseagreen;
+    color: black;
 }
 .output span {
     font-weight: bold;
